@@ -1,0 +1,8 @@
+prefix=/home/borg/test_w_hand/install
+
+Name: urdf_34
+Description: Description of urdf_34
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
